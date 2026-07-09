@@ -1,0 +1,2 @@
+menu-vote.tar.gz filter=lfs diff=lfs merge=lfs -text
+menu-vote.zip filter=lfs diff=lfs merge=lfs -text
